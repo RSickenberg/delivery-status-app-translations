@@ -1,25 +1,13 @@
-# delivery-status-app-translations
-Translation strings for the Delivery Status app
+# Translation Repository License & Usage Terms
 
-## Contributing to Translations
-We welcome contributions to improve the translations for the Delivery Status app. If you would like to contribute, please follow these guidelines:
-1. Fork the repository and create a new branch for your changes.
-2. Make your changes to the translation files.
-3. Submit a pull request with a clear description of your changes.
+This repository contains purely translation strings for the Delivery Status app and does not contain any software code or logic.
 
-
-## Translation Repository License & Usage Terms
-
-Welcome to the translation repository for **jaAPP**. Please note that this repository contains purely translation strings and does not contain any software code or logic.
-
-### 1. Contributions & Pull Requests
+## 1. Contributions & Pull Requests
 You are welcome and encouraged to submit pull requests (PRs) strictly for the purpose of enhancing, adding, or correcting translations for the app. 
 
 By submitting a pull request, you agree that your contributions are made voluntarily and that all rights to those contributions are immediately assigned to and become the exclusive property of **jaAPP**.
 
----
-
-### 2. Strict Usage Restrictions
+## 2. Strict Usage Restrictions
 This repository operates under a strict **"All Rights Reserved"** policy. You are explicitly prohibited from using these translations for your own personal, professional, or commercial use. 
 
 Specifically, you may **never**:
@@ -27,13 +15,9 @@ Specifically, you may **never**:
 * Sell, monetize, or bundle these translations into other products.
 * Use this work in any capacity outside of submitting PRs directly to this repository without prior written permission from the original author.
 
----
-
-### 3. Copyright & Ownership
+## 3. Copyright & Ownership
 **All rights, titles, and interests in and to these translations belong exclusively to jaAPP.** 
 Interacting with this repository does not grant you any license, copyright, or permissions to utilize the contents for anything other than contributing back to **jaAPP**.
 
----
-
-### 4. Disclaimer
+## 4. Disclaimer
 > **No Warranty:** The translations provided in this repository are provided on an "as-is" basis, without any warranties, express or implied, or guarantees regarding their accuracy, reliability, or completeness.
